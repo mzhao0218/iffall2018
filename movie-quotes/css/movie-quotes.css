@@ -1,0 +1,15 @@
+p {  
+      text-indent: 4.0em;  
+    }  
+ h1 {
+ 	color:red;
+ 	font-family: monospace;
+ 	font-size: 24px;
+ }
+
+ h2 {
+
+ 	color:black;
+ 	font-family: monospace;
+ 	font-size: 20px;
+ }
