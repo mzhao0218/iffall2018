@@ -1,0 +1,65 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Cormorant Garamond', serif;
+	color: #e3f7f9;
+}
+
+h2 {
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: lighter;
+	font-size: 1rem;
+	color: white;
+	opacity: 0.8;
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 0.9rem;
+}
+
+div.verse1{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	color: #f7e3f9;
+}
+
+div.verse2{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	color: #afd4ed;
+}
+
+div.verse3{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	color: #ede3c2;
+}
+
+div.chorus1{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	color: #fcfbe3;
+}
+
+div.chorus2{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1rem;
+	color: #ffb5a8;
+}
+
+body {
+	background-image: url(https://static.tumblr.com/efd99b2b314dc11540794392c16a28cb/mr3mhqn/gNboxkosh/tumblr_static_c2a7glyfj9c0coskscw0gc4sg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 200px;
+}
+
+img {
+	width: 20%;
+	height: 20%;
+}
